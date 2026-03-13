@@ -1,0 +1,18 @@
+Origin: Lattice
+Label: Lattice
+Suite: stable
+Codename: stable
+Version: stable
+Architectures: amd64 arm64
+Components: main
+Date: Fri, 13 Mar 2026 21:07:30 +0000
+MD5Sum:
+ ae205695739ab04ad9aa6399ef01bc29              578 main/binary-amd64/Packages
+ ca60ebe9c8fe6d7a052b042d41e9103d              424 main/binary-amd64/Packages.gz
+ a2a340c0b20ebff7f6d9d4493f2ec921              578 main/binary-arm64/Packages
+ 32abff3e4435262be503215e4c867c47              421 main/binary-arm64/Packages.gz
+SHA256:
+ 9f14a63edb05fd227df7bd5b4d3fac637e18ec8b59627b918101892336521e66              578 main/binary-amd64/Packages
+ 8592b81c60b91a303ac5f92aa6f8bd4690faca26a808c6e8da500b4d76222a84              424 main/binary-amd64/Packages.gz
+ e796d9c68402a234b9db30cab77e1dde90af3ad1862f98ac9c3ebcc89e0d638e              578 main/binary-arm64/Packages
+ 9f0e916a5087ee6478bd783d0ef8e0570d9a0e113929e033a7298c16faec262b              421 main/binary-arm64/Packages.gz
