@@ -5,11 +5,11 @@ Section: net
 Priority: optional
 Maintainer: Ben Ford <ben@lattice.local>
 Homepage: https://lattice.benjf.dev
-Installed-Size: 35658
+Installed-Size: 36580
 Filename: pool/main/l/lattice/lattice_0.1.6-1_arm64.deb
-Size: 9508112
-MD5sum: c03e1c0323f1a7515851cda7b0789581
-SHA256: 13ed28d825e3fbd60a31f20ed54cfcfdf3c539002c1911c5a1411c191a5b71f7
+Size: 9799802
+MD5sum: 4a8e58829010284614f501fb1135a3e7
+SHA256: d0792b9570c245d9b804e819078ffd4ec98be507f6ef9d51c82e74ad1aee981b
 Description: Peer-to-peer web protocol CLI and daemon
  Publish and access .loom sites without DNS, registrars, or a central host.
  .
