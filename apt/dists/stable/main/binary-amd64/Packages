@@ -1,15 +1,15 @@
 Package: lattice
-Version: 0.1.8-1
+Version: 0.1.9-1
 Architecture: amd64
 Section: net
 Priority: optional
 Maintainer: Ben Ford <ben@lattice.local>
 Homepage: https://lattice.benjf.dev
-Installed-Size: 38480
-Filename: pool/main/l/lattice/lattice_0.1.8-1_amd64.deb
-Size: 10125316
-MD5sum: 44d2b6c0200ec259b1da975f8e724b0e
-SHA256: aca9050c227b8e9a73d57029d4a677633565a6c0639a33741c5eb056d8886e14
+Installed-Size: 38471
+Filename: pool/main/l/lattice/lattice_0.1.9-1_amd64.deb
+Size: 10118530
+MD5sum: b85755d210d8ca274c618230fd735d2d
+SHA256: 96f6c1e4b2a75a2112cf3a70556b1b995b6755a7e82e3710980817e241fa86dc
 Description: Peer-to-peer web protocol CLI and daemon
  Publish and access .loom sites without DNS, registrars, or a central host.
  .
